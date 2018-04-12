@@ -1,12 +1,13 @@
 [Resume](https://bit.ly/2HcTNym) | Portfolio | Writing | Organizations | Contact 
 
-Hello World!
+My name is Suha Sabi Hussain. Welcome to my site! 
 
-My name is Suha Sabi Hussain, a student, hacker, and writer living in New York. I’m a high school student at Queens HS for the Sciences, where I lead or am a part of the robotics team, team cyber, STEMinism, math research, ARISTA, and Urban Sketchers. 
+I’m a student, a hacker, an engineer, a researcher, and a writer living in New York City. Originally from Brooklyn, I believe in working at the intersection of engineering and art/media to spark change. Expanding the limits of human progress and making the universe a safer place is what I want to do with my life. 
 
-In addition to pursuing remote consulting work in computer engineering, I’m an intern at the NYU Center for Cybersecurity, where I have conducted award-winning security research; one of my projects will be presented at the 2018 Intel International Science and Engineering Fair. Previously, I worked for Vengo Labs and studied at Columbia and Google’s igniteCS bootcamp.
+I specialize in cyber security, hardware development, and artificial intelligence. I’m learning more about decentralized applications, data science, and mixed reality as well as the principles of art and design. 
 
-I’m also an avid writer. 
+I run several organizations at my school (QHSS Robotics, Team Cyber, STEMinism) and am actively involved in ARISTA, Urban Sketchers, and Math Research. Having conducted independent research previously, I’m currently interning at the NYU Center for Cybersecurity. I’ve also worked at a tech startup called Vengo Labs and participated in multiple competitions, including the Science Bowl. 
 
-I believe in  
+Writing is one of my favorite passions. I’m experienced with a wide variety of forums, including research papers, technical documentation, prose, and screenwriting. I have a screenplay in progress: Always Anonymous. 
 
+Check out the links above me to learn more. 
