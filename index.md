@@ -1,1 +1,1 @@
-Hello World | About me
+Hello World | About me | Projects | Extensions
