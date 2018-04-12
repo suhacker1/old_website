@@ -1,2 +1,1 @@
-<div class="align-center">Centered text</div>
-->Hello World<-
+Hello World | About me
