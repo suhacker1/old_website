@@ -1,5 +1,6 @@
 ***Portfolio***
 
+![Speech Recognition](http://sshussain.me/Images/src.png)
 **A New Method for the Exploitation of Speech Recognition Systems**  
 [*Paper*](https://bit.ly/2qA28Sn) [*Slides*](https://bit.ly/2ELUk5g) [*Code Sample*](https://github.com/alc0rh/phonetic-classification)    
 I determined how to hack a speech recognition system, specifically a neural network for phonetic classification, using adversarial machine learning. I developed an algorithm and tested it using 2 neural networks and the TIMIT data set. My research was conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.  
@@ -17,3 +18,4 @@ Skills: EaglePCB, Arduino, CATIA, Hand Tools
 **Side Channel Attacks on Neural Network Accelerators**
 
 **The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**
+
