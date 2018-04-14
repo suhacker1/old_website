@@ -11,15 +11,15 @@ Awards: 2018 Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Com
 ![Conveyor Belt](http://sshussain.me/Images/conveyor_belt.png)
 **Conveyor Belt**  
 [*Code Sample*](https://github.com/alc0rh/Arduino-Code-for-Stepper-Motor-Control-)  
-I designed and developed a prototype conveyor belt system for a new product at Vengo Labs. The system consisted of an Arduino, a stepper motor driver chip, and a stepper motor in addition to other mechanical parts.  
-Areas: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping  
-Skills: EaglePCB, Arduino, CATIA, Hand Tools  
+I designed and developed a prototype conveyor belt system for a new product at Vengo Labs. The system consisted of an Arduino, a stepper motor driver chip, and a stepper motor in addition to other mechanical parts.    
+Areas: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping    
+Skills: EaglePCB, Arduino, CATIA, Hand Tools    
 
 **Side Channel Attacks on Neural Network Accelerators** (in-progress)  
-I'm attempting to examine flaws within neural network hardware (FPGA's in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.   
-Areas: Cybersecurity, Artificial Intelligence, Hardware Development
-Skills: FPGA Design, Verilog, ModelSim
+I'm attempting to examine flaws within neural network hardware (FPGA's in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.     
+Areas: Cybersecurity, Artificial Intelligence, Hardware Development  
+Skills: FPGA Design, Verilog, ModelSim  
 
-**The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**  
-I tested the performance of several PID controllers that included neural networks (and one standard one), and then conducted the Chi-Square GOF test to ascertain dependence.
-Skills: Matlab, Simulink, Statistical Analysis, Technical Writing, Engineering Research
+**The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**    
+I tested the performance of several PID controllers that included neural networks (and one standard one), and then conducted the Chi-Square GOF test to ascertain dependence.  
+Skills: Matlab, Simulink, Statistical Analysis, Technical Writing, Engineering Research  
