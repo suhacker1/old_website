@@ -15,7 +15,8 @@ I designed and developed a prototype conveyor belt system for a new product at V
 Areas: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping  
 Skills: EaglePCB, Arduino, CATIA, Hand Tools  
 
-**Side Channel Attacks on Neural Network Accelerators**
+**Side Channel Attacks on Neural Network Accelerators** (in-progress)
+I'm attempting to examine flaws within neural network hardware (FPGA's in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi. 
+Skills: FPGA Design, Verilog, ModelSim
 
 **The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**  
-
