@@ -1,8 +1,8 @@
-[Resume](https://bit.ly/2HcTNym) | [Portfolio](http://sshussain.me/portfolio) | Writing | Organizations | Contact
+[Resume](https://bit.ly/2HcTNym) | [Portfolio](http://sshussain.me/portfolio) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
 
 My name is Suha Sabi Hussain. Welcome to my site!
 
-I’m a student, a hacker, an engineer, a researcher, and a writer living in New York City. Originally from Brooklyn, I believe in working at the intersection of engineering and art/media to spark change. Expanding the limits of human progress and making the universe a safer place is what I want to do with my life. 
+I’m a student, a hacker, an engineer, a researcher, and a writer living in New York City. Originally from Brooklyn, I believe in working at the intersection of engineering and art/media to spark change. Expanding the limits of human progress and making the universe a safer place is what I want to do with my life.
 
 I specialize in cyber security, hardware development, and artificial intelligence. I’m learning more about decentralized applications, data science, and mixed reality in addition to economics, design, and government.
 
