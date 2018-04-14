@@ -6,6 +6,6 @@ A New Method for the Exploitation of Speech Recognition Systems
 
 Conveyor Belt
 
-![Image](http://sshussain.me/Images/conveyor_belt.png)
+![Conveyor Belt](http://sshussain.me/Images/conveyor_belt.png)
 
 The Effect of Neural Network Architecture on Quadcopter Control Systems Performance
