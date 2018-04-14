@@ -17,5 +17,5 @@ Skills: EaglePCB, Arduino, CATIA, Hand Tools
 
 **Side Channel Attacks on Neural Network Accelerators**
 
-**The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**
+**The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**  
 
