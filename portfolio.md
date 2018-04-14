@@ -8,7 +8,7 @@ Skills: TensorFlow, SSH, NumPy, Jupyter Notebook, Python 2.7, Technical Writing,
 Awards: 2018 Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Computer Science, Sarah & Morris Wiesenthal Award  
 
 ![Conveyor Belt](http://sshussain.me/Images/conveyor_belt.png)
-**Conveyor Belt**
+**Conveyor Belt**  
 [*Code Sample*](https://github.com/alc0rh/Arduino-Code-for-Stepper-Motor-Control-)  
 I designed and developed a prototype conveyor belt system for a new product at Vengo Labs. The system consisted of an Arduino, a stepper motor driver chip, and a stepper motor in addition to other mechanical parts.  
 Areas: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping  
