@@ -6,7 +6,7 @@
 I determined how to hack a speech recognition system, specifically a neural network for phonetic classification, using adversarial machine learning. I developed an algorithm and tested it using 2 neural networks and the TIMIT data set. My research was conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.  
 _Areas_: Cybersecurity, Deep Learning (Adversarial Machine Learning)  
 _Skills_: TensorFlow, SSH, NumPy, Jupyter Notebook, Python 2.7, Technical Writing, Engineering Research  
-_Awards_: 2018 Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Computer Science, Sarah & Morris Wiesenthal Award  
+_Awards_: Intel ISEF Second Award in Systems Software, Shanghai STEM Cloud Award, National Security Agency Research Directorate Second “Science Security” Award,  GoDaddy Data Award, Association for Computing Machinery Fourth Award, Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Computer Science, Sarah & Morris Wiesenthal Award  
 
 ![Conveyor Belt](http://sshussain.me/Images/conveyor_belt.png)
 **Conveyor Belt**  
@@ -16,7 +16,7 @@ _Areas_: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototy
 _Skills_: EaglePCB, Arduino, CATIA, Hand Tools    
 
 **Side Channel Attacks on Neural Network Accelerators** (in-progress)  
-I'm attempting to examine flaws within neural network hardware (FPGA's in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.     
+I'm attempting to examine flaws within neural network hardware (FPGAs in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.     
 _Areas_: Cybersecurity, Artificial Intelligence, Hardware Development  
 _Skills_: FPGA Design, Verilog, ModelSim  
 
