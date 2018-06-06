@@ -15,10 +15,15 @@ I designed and developed a prototype conveyor belt system for a new product at V
 _Areas_: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping    
 _Skills_: EaglePCB, Arduino, CATIA, Hand Tools    
 
+***Anarchist Playground*** (in-progress)
+[*Game*](https://codepen.io/alc0rh/pen/yEJMYE)  
+I built a game to showcase American history from an anarchist perspective.
+
 **Side Channel Attacks on Neural Network Accelerators** (in-progress)  
 I'm attempting to examine flaws within neural network hardware (FPGAs in particular). This research is being conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.     
 _Areas_: Cybersecurity, Artificial Intelligence, Hardware Development  
 _Skills_: FPGA Design, Verilog, ModelSim  
+
 
 **The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**    
 I tested the performance of several PID controllers that included neural networks (and one standard one), and then conducted the Chi-Square GOF test to ascertain dependence.  
