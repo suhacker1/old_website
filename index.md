@@ -1,4 +1,4 @@
-[Resume](https://bit.ly/2HcTNym) | [Portfolio](http://sshussain.me/portfolio) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
+[Resume](https://bit.ly/2HcTNym) | [Portfolio](http://sshussain.me/portfolio) | [Press](http://sshussain.me/press) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
 
 My name is Suha Sabi Hussain. Welcome to my site!
 
