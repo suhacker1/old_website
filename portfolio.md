@@ -15,10 +15,10 @@ I designed and developed a prototype conveyor belt system for a new product at V
 _Areas_: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototyping    
 _Skills_: EaglePCB, Arduino, CATIA, Hand Tools    
 
-**-** (in-progress)  
-_Areas_: Cybersecurity, Hardware Development  
-_Skills_: -
-
+**(working title)--** (in-progress)  
+_Areas_: Cybersecurity, Hardware Development, Machine Learning, Software Engineering & App Development
+_Skills_: Android NDK, SnapDragon Profiler, Android SDK, BASH, Command Line Utilities, Python, Sci-kit Learn, Keras, Technical Writing, Engineering Research
+I am conducting this research at NYU CCS. 
 
 **The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**    
 I tested the performance of several PID controllers that included neural networks (and one standard one), and then conducted the Chi-Square GOF test to ascertain dependence.  
