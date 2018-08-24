@@ -1,13 +1,11 @@
-[Resume](https://bit.ly/2HcTNym) | [Portfolio](http://sshussain.me/portfolio) | [Press](http://sshussain.me/press) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
+[Resume](http://sshussain.me/resume.pdf) | [Portfolio](http://sshussain.me/portfolio) | [Press](http://sshussain.me/press) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
 
 My name is Suha Sabi Hussain. Welcome to my site!
 
-I’m a student, a hacker, an engineer, a researcher, and a writer living in New York City. Originally from Brooklyn, I believe in working at the intersection of engineering and art/media to spark change. Expanding the limits of human progress and making the universe a safer place is what I want to do with my life.
+I’m a researcher, engineer, and student in New York City. 
 
-I specialize in cyber security, hardware development, and artificial intelligence. I’m learning more about decentralized applications, data science, and mixed reality in addition to economics, design, and government.
+I primarily conduct research in machine learning and cybersecurity, and I greatly enjoy hardware development. For example, I’ve worked on hacking speech recognition systems and building conveyor belts. My current position is an intern at the [NYU Center for Cybersecurity](http://cyber.nyu.edu/). I’ve also freelanced and interned at [Vengo Labs](https://vengolabs.com/). 
 
-I run several organizations at [my school](http://www.qhss.org/) (QHSS Robotics, Team Cyber, STEMinism) and am actively involved in ARISTA, Urban Sketchers, and Math Research. Having conducted independent research previously, I’m currently interning at the [NYU Center for Cybersecurity](http://cyber.nyu.edu/); my research has won several awards, including the second award in systems software at the Intel ISEF 2018. I’ve also worked at a tech startup called Vengo Labs and participated in multiple competitions, including the Science Bowl.
+As a senior at [Queens High School for the Sciences](http://www.qhss.org/), I run or help run multiple organizations, namely QHSS Robotics, Team Cyber & The Da Vinci Experiment, and Math Research. I partake in ARISTA and Urban Sketchers activities. Many of these roles capitalize upon my predilection for teaching and training. I’ve also studied mathematical modeling at Google’s igniteCS Bootcamp at Columbia University. 
 
-Writing is one of my favorite passions. I’m experienced with a wide variety of forms, including research papers, technical documentation, prose, and screenwriting. I have a screenplay in progress: Always Anonymous.
-
-Check out the links above me to learn more.
+My other interests and hobbies include art (modern art in particular), writing (prose, screenplays, technical writing), ring theory, cognitive science, political science, and economics. 
