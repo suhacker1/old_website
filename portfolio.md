@@ -1,6 +1,7 @@
 ***Portfolio***
 
-[Home](https://sshussain.me) | [Resume](http://sshussain.me/resume.pdf) | [Portfolio](http://sshussain.me/portfolio) | [Press](http://sshussain.me/press) | [Writing](http://sshussain.me/writing) | [Contact](http://sshussain.me/contact)
+[Home](https://sshussain.me) | [Resume](http://sshussain.me/resume.pdf) | [Portfolio](http://sshussain.me/portfolio) | 
+[Press](http://sshussain.me/press) | [Contact](http://sshussain.me/contact)
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
 **A New Method for the Exploitation of Speech Recognition Systems**  
