@@ -1,5 +1,5 @@
--
-[Home](https://sshussain.me) | [Resume](http://sshussain.me/resume.pdf) | [Portfolio](http://sshussain.me/portfolio) | [Press](http://sshussain.me/press) 
+
+[Home](suhacker1.github.io) | [Resume](suhacker1.github.io/resume.pdf) | [Portfolio](suhacker1.github.io/portfolio) | [Press](suhacker1.github.io/press) 
 
 Email: suhashussain1 'at' gmail 'dot' com
 

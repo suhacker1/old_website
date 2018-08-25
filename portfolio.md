@@ -1,7 +1,7 @@
 ***Portfolio***
 
-[Home](https://sshussain.me) | [Resume](http://sshussain.me/resume.pdf) | [Press](http://sshussain.me/press) | 
-[Contact](http://sshussain.me/contact)
+[Home](suhacker1.github.io) | [Resume](suhacker1.github.io/resume.pdf) | [Press](suhacker1.github.io/press) | 
+[Contact](suhacker1.github.io/contact)
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
 **A New Method for the Exploitation of Speech Recognition Systems**  
