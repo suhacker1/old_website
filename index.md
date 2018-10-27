@@ -1,5 +1,5 @@
 
-[Resume](suhacker1.github.io/resume.pdf) | [Portfolio](suhacker1.github.io/portfolio) | [Press](suhacker1.github.io/press) | [Contact](suhacker1.github.io/contact)
+[Resume](https://sshussain.me/resume.pdf) | [Portfolio](suhacker1.github.io/portfolio) | [Press](suhacker1.github.io/press) | [Contact](suhacker1.github.io/contact)
 
 My name is Suha Sabi Hussain. Welcome to my site!
 
