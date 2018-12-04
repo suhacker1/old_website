@@ -1,6 +1,6 @@
 ***Portfolio***
 
-[Home](suhacker1.github.io) | [Resume](suhacker1.github.io/resume.pdf) | [Press](suhacker1.github.io/press) | 
+[Home](suhacker1.github.io) | [Resume](https://sshussain.me/SH_Resume.pdf) | [CV](https://sshussain.me/SH_CV.pdf) | [Press](suhacker1.github.io/press) | 
 [Contact](suhacker1.github.io/contact)
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
