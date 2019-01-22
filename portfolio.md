@@ -3,11 +3,13 @@
 [Home](suhacker1.github.io) | [Resume](https://sshussain.me/SH_Resume.pdf) | [CV](https://sshussain.me/SH_CV.pdf) | [Press](suhacker1.github.io/press) | 
 [Contact](suhacker1.github.io/contact)
 
-![HPCA](http://sshussain.me/Images/overview.png)
 **Detecting Privacy Violations in Children's Apps Using HPCs**
-[*Data Collection*](https://github.com/suhacker1/hpc-a) 
+[*Data Collection*](https://github.com/suhacker1/hpc-a)
+
 I conducted this research at NYU CCS with Professor Ramesh Karri, Professor Kanad Basu, and Dr. Ujjwal Gupta. There are two different versions of this paper (DAC conference and HS research). 
+
 _Areas_: Cybersecurity, Hardware Development, Machine Learning, Software Engineering, & App Development
+
 _Skills_: Android NDK, Android SDK, BASH, Command Line Utilities, Python, Sci-kit Learn, Keras, Technical Writing, Engineering Research
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
