@@ -4,7 +4,8 @@
 [Contact](suhacker1.github.io/contact)
 
 **Detecting Privacy Violations in Children's Apps Using HPCs**
-[*Data Collection*](https://github.com/suhacker1/hpc-a)
+
+[*Data Collection*](https://github.com/suhacker1/hpc-a) [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
 
 I conducted this research at NYU CCS with Professor Ramesh Karri, Professor Kanad Basu, and Dr. Ujjwal Gupta. There are two different versions of this paper (DAC conference and HS research). 
 
