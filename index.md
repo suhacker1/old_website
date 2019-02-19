@@ -9,4 +9,4 @@ I primarily conduct research in machine learning and cybersecurity, and I greatl
 
 As a senior at [Queens High School for the Sciences](http://www.qhss.org/), I run or help run multiple organizations, namely QHSS Robotics, Team Cyber & The Da Vinci Experiment, QHSS STEMinism, and Math Research. I partake in ARISTA and Urban Sketchers activities. Many of these roles capitalize upon my predilection for teaching and training. I’ve also studied mathematical modeling at Google’s igniteCS Bootcamp at Columbia University. 
 
-My other interests and hobbies include art (modern art in particular), writing (prose, screenplays, technical writing), cognitive science, economics, space exploration, futurism, critical theory, philosophy, and effective altruism. 
+My other interests and hobbies include art (modern art in particular), writing (prose, screenplays, technical writing), cognitive science, economics, space exploration, futurism, critical theory, and effective altruism. 
