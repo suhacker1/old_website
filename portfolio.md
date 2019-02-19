@@ -29,7 +29,9 @@ _Areas_: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototy
 _Skills_: EaglePCB, Arduino, CATIA, Hand Tools    
 
 **Math Research Repository**
-[*Code Sample*](https://github.com/jchen42703/MathResearchQHSS)  
+
+[*Code*](https://github.com/jchen42703/MathResearchQHSS)  
+
 In collaboration with Jospeh Chen, I developed procedures for statistics and machine learning for math research. 
 _Areas_: Nonparametric Statistics, Machine Learning, Microeconomics, Bayesian Analysis  
 _Skills_: Python, Sci-kit Learn, Keras, Technical Writing, Scipy, Matplotlib
