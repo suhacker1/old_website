@@ -36,6 +36,3 @@ In collaboration with Jospeh Chen, I developed procedures for statistics and mac
 _Areas_: Nonparametric Statistics, Machine Learning, Microeconomics, Bayesian Analysis  
 _Skills_: Python, Sci-kit Learn, Keras, Technical Writing, Scipy, Matplotlib
 
-**The Effect of Neural Network Architecture on Quadcopter Control Systems Performance**    
-I tested the performance of several PID controllers that included neural networks (and one standard one), and then conducted the Chi-Square GOF test to ascertain dependence.  
-_Skills_: Matlab, Simulink, Statistical Analysis, Technical Writing, Engineering Research  
