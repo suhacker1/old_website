@@ -4,18 +4,17 @@
 [Contact](suhacker1.github.io/contact)
 
 **Detecting Privacy Violations in Children's Apps Using HPCs**
-
-[*Data Collection*](https://github.com/suhacker1/hpc-a) [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
-
+[*Data Collection*](https://github.com/suhacker1/hpc-a) 
+[*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
 I conducted this research at NYU CCS with Professor Ramesh Karri, Professor Kanad Basu, and Dr. Ujjwal Gupta. There are two different versions of this paper (DAC conference and HS research). 
-
 _Areas_: Cybersecurity, Hardware Development, Machine Learning, Software Engineering, & App Development
-
 _Skills_: Android NDK, Android SDK, BASH, Command Line Utilities, Python, Sci-kit Learn, Keras, Technical Writing, Engineering Research
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
 **A New Method for the Exploitation of Speech Recognition Systems**  
-[*Paper*](https://bit.ly/2qA28Sn) [*Slides*](https://bit.ly/2ELUk5g) [*Code Sample*](https://github.com/suhacker1/phonetic-classification)    
+[*Paper*](https://bit.ly/2qA28Sn) 
+[*Slides*](https://bit.ly/2ELUk5g) 
+[*Code Sample*](https://github.com/suhacker1/phonetic-classification)    
 I determined how to hack a speech recognition system, specifically a neural network for phonetic classification, using adversarial machine learning. I developed an algorithm and tested it using 2 neural networks and the TIMIT data set. My research was conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.  
 _Areas_: Cybersecurity, Deep Learning (Adversarial Machine Learning)  
 _Skills_: TensorFlow, SSH, NumPy, Jupyter Notebook, Python 2.7, Technical Writing, Engineering Research  
@@ -29,9 +28,7 @@ _Areas_: Mechanical Engineering, Hardware(Electrical) Engineering, Rapid Prototy
 _Skills_: EaglePCB, Arduino, CATIA, Hand Tools    
 
 **Math Research Repository**
-
 [*Code*](https://github.com/jchen42703/MathResearchQHSS)  
-
 In collaboration with Jospeh Chen, I developed procedures for statistics and machine learning for math research. 
 _Areas_: Nonparametric Statistics, Machine Learning, Microeconomics, Bayesian Analysis  
 _Skills_: Python, Sci-kit Learn, Keras, Technical Writing, Scipy, Matplotlib
