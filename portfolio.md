@@ -5,9 +5,7 @@
 
 **Detecting Privacy Violations in Children's Apps Using HPCs**
 
-[*Data Collection*](https://github.com/suhacker1/hpc-a) 
-
-[*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
+[*Data Collection*](https://github.com/suhacker1/hpc-a) + [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
 
 I conducted this research at NYU CCS with Professor Ramesh Karri, Professor Kanad Basu, and Dr. Ujjwal Gupta. There are two different versions of this paper (DAC conference and HS research). 
 
@@ -19,11 +17,7 @@ _Skills_: Android NDK, Android SDK, BASH, Command Line Utilities, Python, Sci-ki
 
 **A New Method for the Exploitation of Speech Recognition Systems**  
 
-[*Paper*](https://bit.ly/2qA28Sn) 
-
-[*Slides*](https://bit.ly/2ELUk5g) 
-
-[*Code Sample*](https://github.com/suhacker1/phonetic-classification)    
+[*Paper*](https://bit.ly/2qA28Sn) + [*Slides*](https://bit.ly/2ELUk5g) + [*Code Sample*](https://github.com/suhacker1/phonetic-classification)    
 
 I determined how to hack a speech recognition system, specifically a neural network for phonetic classification, using adversarial machine learning. I developed an algorithm and tested it using 2 neural networks and the TIMIT data set. My research was conducted at NYU CCS under Professor Ramesh Karri and Zahra Ghodsi.  
 
