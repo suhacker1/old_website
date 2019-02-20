@@ -1,7 +1,6 @@
 ***Portfolio***
 
-[Home](suhacker1.github.io) | [Resume](https://sshussain.me/SH_Resume.pdf) | [CV](https://sshussain.me/SH_CV.pdf) | [Press](suhacker1.github.io/press) | 
-[Contact](suhacker1.github.io/contact)
+[Home](suhacker1.github.io) | [Resume](https://sshussain.me/SH_Resume.pdf) | [CV](https://sshussain.me/SH_CV.pdf) | [Portfolio](suhacker1.github.io/portfolio) | [Press](suhacker1.github.io/press) |[Writing](suhacker1.github.io/writing) | [Contact](suhacker1.github.io/contact)
 
 Notable Computer Science and Engineering Projects: 
 
