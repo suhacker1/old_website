@@ -5,13 +5,15 @@
 
 **Detecting Privacy Violations in Children's Apps Using HPCs**
 
-[*Data Collection*](https://github.com/suhacker1/hpc-a) + [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing)
+[*Data Collection Code*](https://github.com/suhacker1/hpc-a) + [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing) + [*Slides*](https://docs.google.com/presentation/d/1cNJEPI3l7PewYVw4PruUFfY6ZpOGXFG8lzQUacMuc7A/edit?usp=sharing) 
 
 I conducted this research at NYU CCS with Professor Ramesh Karri, Professor Kanad Basu, and Dr. Ujjwal Gupta. There are two different versions of this paper (DAC conference and HS research). 
 
 _Areas_: Cybersecurity, Hardware Development, Machine Learning, Software Engineering, & App Development
 
 _Skills_: Android NDK, Android SDK, BASH, Command Line Utilities, Python, Sci-kit Learn, Keras, Technical Writing, Engineering Research
+
+_Recognition_: NYC Junior Science and Humanities Symposium Semifinals Third in Computer Science
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
 
@@ -25,7 +27,7 @@ _Areas_: Cybersecurity, Deep Learning (Adversarial Machine Learning)
 
 _Skills_: TensorFlow, SSH, NumPy, Jupyter Notebook, Python 2.7, Technical Writing, Engineering Research  
 
-_Awards_: Intel ISEF Second Award in Systems Software, Shanghai STEM Cloud Award, National Security Agency Research Directorate Second “Science Security” Award,  GoDaddy Data Award, Association for Computing Machinery Fourth Award, Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Computer Science, Sarah & Morris Wiesenthal Award  
+_Recognition_: Intel ISEF Second Award in Systems Software, Shanghai STEM Cloud Award, National Security Agency Research Directorate Second “Science Security” Award,  GoDaddy Data Award, Association for Computing Machinery Fourth Award, Intel ISEF Finalist, Naval Science Award, NYCSEF First Award in Computer Science, Sarah & Morris Wiesenthal Award, Poster Presentation at the Computation Cybersecurity in Compromised Environments Fall 2018 Workshop, Invited Talk at the NSA
 
 ![Conveyor Belt](http://sshussain.me/Images/conveyor_belt.png)
 
