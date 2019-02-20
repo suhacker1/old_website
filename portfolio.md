@@ -3,6 +3,8 @@
 [Home](suhacker1.github.io) | [Resume](https://sshussain.me/SH_Resume.pdf) | [CV](https://sshussain.me/SH_CV.pdf) | [Press](suhacker1.github.io/press) | 
 [Contact](suhacker1.github.io/contact)
 
+Notable Computer Science and Engineering Projects: 
+
 **Detecting Privacy Violations in Children's Apps Using HPCs**
 
 [*Data Collection Code*](https://github.com/suhacker1/hpc-a) + [*MRes Version of Paper*](https://drive.google.com/file/d/1JzwDJ_7zBA_k0Jr040-4ull5CWnsry9H/view?usp=sharing) + [*Slides*](https://docs.google.com/presentation/d/1cNJEPI3l7PewYVw4PruUFfY6ZpOGXFG8lzQUacMuc7A/edit?usp=sharing) 
