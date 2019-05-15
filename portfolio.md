@@ -14,7 +14,7 @@ _Areas_: Cybersecurity, Hardware Development, Machine Learning, Software Enginee
 
 _Skills_: Android NDK, Android SDK, BASH, Command Line Utilities, Python, Sci-kit Learn, Keras, Technical Writing, Engineering Research
 
-_Recognition_: NYC Junior Science and Humanities Symposium Semifinals Third in Computer Science
+_Recognition_: Intel ISEF Finalist, NYCSEF First Award in Computer Science, NYC Junior Science and Humanities Symposium Semifinals Third in Computer Science
 
 ![Speech Recognition](http://sshussain.me/Images/src.png)
 
