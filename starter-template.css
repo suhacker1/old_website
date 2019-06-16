@@ -1,0 +1,51 @@
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+/* navigation bar (top) */
+.navbar {
+  background-color: black;
+  font-size: 2em;
+  text-align: center;
+
+}
+
+.navbar-header .navbar-brand {
+  /* min-height: 55px; */
+  color: white;
+  font-size: 1em;
+} 
+
+/* footer */
+footer {
+  width: 100%;
+  background-color: black;
+  padding: 5% 5% 22% 5%;
+  color: #FFF;
+  font-size: 1.5em;
+  bottom: 0;
+
+  /* position: fixed; */
+}
+footer h3 {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 50px;
+  color: #FFF
+}
+.fa:hover {
+  color: #D5D5D5;
+  text-decoration: none;
+}
+.icon {
+  max-width: 200px;
+}
