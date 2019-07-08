@@ -63,3 +63,18 @@ footer h3 {
   line-height: 1;
   letter-spacing: -.05rem;
 }
+
+/* Adjusting for mobile */
+@media {max-width: 768px} {
+  .landing-text h1 {
+    font-size: 300%;
+  }
+  .fa {
+    font-size: 20px;
+    padding: 10px;
+  }
+  .icon {
+    padding: 5%;
+    max-width: 100px;
+  }
+}
